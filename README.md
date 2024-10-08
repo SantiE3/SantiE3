@@ -67,6 +67,10 @@
   <img src= "https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" height="35" alt="pinterest logo" 
   />
   <a/>
+  <a href="https://x.com/Blood__Moonn?t=ZoWeIWuRpYC3jo6_GDezmQ&s=08" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
   
 </div>
 
