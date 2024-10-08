@@ -50,20 +50,20 @@
 ###
 
 <div>
- <a href="https://instagram.com/https://www.instagram.com/santigo.iidk/" target="_blank">
+ <a href="https://www.instagram.com/santigo.iidk/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 
-  <a href="https://discord.gg//https://discord.gg/santiago_murcia" target="_blank">
+  <a href="https://discord.gg/santiago_murcia" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <a/>
       <a href="santiagoepalza73@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <a/>
     
-   <a href="https://linkedin.com/in/https://www.linkedin.com/in/santiago-epalza-murcia-764617304?" target="_blank">
+   <a href="https://www.linkedin.com/in/santiago-epalza-murcia-764617304?" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <a/>
-     <a href="https://pinterest.com/https://co.pinterest.com/murciasantiago576/">
+     <a href="https://pin.it/LwuTkb7nZ">
   <img src= "https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" height="35" alt="pinterest logo" 
   />
   <a/>
