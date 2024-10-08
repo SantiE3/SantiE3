@@ -2,11 +2,19 @@
 
 
 
+
+
+
 ###
 
+###
 
-<h2 align="left">💫Soy un joven colombiano de 18 años, apasionado por la tecnología y el diseño. Como desarrollador de software y UX junior, disfruto creando experiencias digitales innovadoras que conecten con las personas. Mi lado artístico se expresa en el dibujo y la creación de contenido, mientras que mi espíritu competitivo se alimenta practicando fútbol, voleibol y natación. Soy una persona creativa, intuitiva y carismática, siempre buscando nuevas formas de aprender y crecer. Me encanta trabajar en equipo y me considero un autodidacta nato. La música, desde el pop hasta el rock indie, me inspira y me acompaña en mi día a día</h2>
-
+<h2 align="left">💫Bienvenido me llamo Santiago Murcia,Soy un joven colombiano de 18 años, apasionado por la tecnología y el diseño. Como desarrollador de software y UX junior, 
+  disfruto creando experiencias digitales innovadoras que conecten con las personas. Mi lado artístico se expresa en el dibujo y la creación de contenido, 
+  mientras que mi espíritu competitivo se alimenta practicando fútbol, voleibol y natación. Soy una persona creativa, 
+  intuitiva y carismática, siempre buscando nuevas formas de aprender y crecer. 
+  Me encanta trabajar en equipo y me considero un autodidacta nato. La música, desde el pop hasta el rock indie, me inspira y me acompaña en mi día a día</h2>
+  
 ###
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/bb/72/3d/bb723dab868fa44510e4882f15a0f63c.gif"  />
