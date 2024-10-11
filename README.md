@@ -22,7 +22,7 @@ Trabajo Con
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/bb/72/3d/bb723dab868fa44510e4882f15a0f63c.gif"  />
+<img align="right" height="145" src="https://i.pinimg.com/originals/bb/72/3d/bb723dab868fa44510e4882f15a0f63c.gif"  />
 
 
 ###
