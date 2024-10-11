@@ -1,6 +1,6 @@
 
 <h2 align="left">💫Bienvenido este es mi perfil oficial de github 
-  Me llamo Santiago Murcia,Soy un joven colombiano de 18 años, apasionado por la tecnología y el diseño. Como desarrollador de software y UX junior, 
+  Me llamo Santiago Murcia,Soy un joven colombiano de 18 años, apasionado por la tecnología y el diseño. Como desarrollador de software y UX traine, 
   disfruto creando experiencias digitales innovadoras que conecten con las personas. Mi lado artístico se expresa en el dibujo y la creación de contenido, 
   mientras que mi espíritu competitivo se alimenta practicando fútbol, voleibol y natación. Soy una persona creativa, 
   intuitiva y carismática, siempre buscando nuevas formas de aprender y crecer. 
