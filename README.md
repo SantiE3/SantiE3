@@ -6,7 +6,7 @@
   intuitiva y carismática, siempre buscando nuevas formas de aprender y crecer. 
   Me encanta trabajar en equipo y me considero un autodidacta nato. La música, desde el pop hasta el rock indie, me inspira y me acompaña en mi día a día</h2>
   
-###
+
 
 
 
