@@ -19,13 +19,15 @@ About Me
 
 <br>
 
-- A passionate Self-taught UX, Web Develoment And Software developer
+- A passionate Self-taught UX, Web Develoment And Software developer trainee
 - Playing Ajedrez, Sudoku, Futbol, Voleibol And Swimming  at spare time
 - Currently learning Web,UX , Java And Phyton Development by Self
 - Personal website "In Progress" [link]()
 - I’m currently studie for an improve me skills for a new job opportunity
 
-<br><br>
+<br>
+
+<br>
   
 
 
@@ -39,8 +41,7 @@ About Me
 
 
 
-Trabajo Con
-
+Work And Studie Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
