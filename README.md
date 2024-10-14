@@ -142,9 +142,9 @@ Social Network
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 ##
+![SantiE3's Stats](https://github-readme-stats.vercel.app/api?username=SantiE3&theme=vue-dark&show_icons=true&hide_border=false&count_private=false)
 
-![SantiE3's Stats](https://github-readme-stats.vercel.app/api?username=SantiE3&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
-
+![SantiE3's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiE3&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 <!-- Copy-paste in your Readme.md file -->
 
