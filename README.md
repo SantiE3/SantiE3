@@ -19,7 +19,7 @@ About Me
 
 <br>
 
-- A passionate Self-taught UX, Web Develoment And Software developer trainee
+- A passionate Self-taught UX, Web Develoment And Software developer 
 - Playing Ajedrez, Sudoku, Futbol, Voleibol And Swimming  at spare time
 - Currently learning Web,UX , Java And Phyton Development by Self
 - Personal website "In Progress": [link]()
@@ -84,17 +84,13 @@ Social Network
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
  </a>
   <a href="https://discord.gg/santiago_murcia" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />  <a/>
-
-  <a href="mailto:santiagoepalza73@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /> 
-  <a/> 
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />  <a/> 
 
    <a href="https://www.linkedin.com/in/santiago-epalza-murcia-764617304?" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />  <a/>
 
   <a href="https://x.com/Blood__Moonn?t=ZoWeIWuRpYC3jo6_GDezmQ&s=08" target="_blank">
- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
+ <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />  </a>
 
    <a href="https://wa.me/+57 3203906389" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
@@ -103,6 +99,10 @@ Social Network
    <a href="" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
    </a>
+
+   <a href="mailto:santiagoepalza73@gmail.com">
+   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /> 
+  <a/>
   
 </div>
   
