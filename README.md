@@ -24,7 +24,7 @@ About Me
 - Currently learning Web,UX , Java And Phyton Development by Self
 - Personal website "In Progress": [link]()
 - I’m currently studie for an improve me skills for a new job opportunity
-- Gmail: (santiagoepalza73@gmail.com)
+
   
 
 <br>
@@ -86,7 +86,9 @@ Social Network
   <a href="https://discord.gg/santiago_murcia" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />  <a/>
 
-    
+  <a href="mailto:santiagoepalza73@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /> 
+  <a/> 
+
    <a href="https://www.linkedin.com/in/santiago-epalza-murcia-764617304?" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />  <a/>
 
@@ -144,7 +146,7 @@ Social Network
 ##
 ![SantiE3's Stats](https://github-readme-stats.vercel.app/api?username=SantiE3&theme=vue-dark&show_icons=true&hide_border=false&count_private=false)
 
-![SantiE3's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiE3&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![SantiE3's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiE3&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!-- Copy-paste in your Readme.md file -->
 
